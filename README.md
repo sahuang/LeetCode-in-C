@@ -1,2 +1,4 @@
 # LeetCode-in-C
-LeetCode Solutions in C as an exercise
+LeetCode Solutions in C
+https://leetcode.com/problemset/algorithms/
+To practise my proficiency in C programming.
